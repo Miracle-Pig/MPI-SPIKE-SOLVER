@@ -1,0 +1,4 @@
+/home/shw/Zone/workspace/MpiSpikeSolver/build/CMakeFiles/rebuild_cache.dir
+/home/shw/Zone/workspace/MpiSpikeSolver/build/CMakeFiles/edit_cache.dir
+/home/shw/Zone/workspace/MpiSpikeSolver/build/CMakeFiles/test_spike.dir
+/home/shw/Zone/workspace/MpiSpikeSolver/build/CMakeFiles/mpi_spike_solver.dir

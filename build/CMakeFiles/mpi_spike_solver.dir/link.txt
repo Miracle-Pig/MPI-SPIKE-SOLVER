@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libmpi_spike_solver.a  CMakeFiles/mpi_spike_solver.dir/src/util.cc.o CMakeFiles/mpi_spike_solver.dir/src/factorization/FactorizationStage.cc.o CMakeFiles/mpi_spike_solver.dir/src/factorization/FacUtils.cc.o CMakeFiles/mpi_spike_solver.dir/src/solve/SolveStage.cc.o CMakeFiles/mpi_spike_solver.dir/src/solve/SolveUtils.cc.o CMakeFiles/mpi_spike_solver.dir/src/facAndSolve/FacAndSolve.cc.o CMakeFiles/mpi_spike_solver.dir/src/facAndSolve/RecursiveStage.cc.o
+/usr/bin/ranlib ../lib/libmpi_spike_solver.a
